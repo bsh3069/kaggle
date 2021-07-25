@@ -23,7 +23,9 @@
 * 사용 모델 : 랜덤포레스트
 * 결과 : private score 0.39531(상위 약 5%)
 ### Don't Get Kicked!
-* 결과
+* 경매에서 구매한 차량이 불량인지 예측하는 문제
+* 사용 모델 : catboost
+* 결과 : private score 0.25725(상위 약 2%)
 ### San Francisco Crime Classification
 * 결과
 ### Shelter Animal Outcomes
