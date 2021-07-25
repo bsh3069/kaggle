@@ -39,6 +39,10 @@
 * 사용 모델 : catboost와 ridge regression 블렌딩 모델
 * 결과 : private score 12569.17873(상위 약 1%)
 ### Shelter Animal Outcomes
-* 결과
+* 보호 동물 결과 지원 개선 문제
+* 사용 모델 : catboost
+* 결과 : private score 0.66475(상위 약 1%)
 ### Give Me Some Credit
-* 결과
+* 누군가가 앞으로 2년 안에 재정적인 어려움을 겪게 될지 예측 문제
+* 사용 모델 : catboost
+* 결과 : private score 0.86818(상위 약 4%)
