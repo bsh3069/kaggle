@@ -1,5 +1,5 @@
 # kaggle Competition
-* 캐글 대회 참가 기록
+* 캐글 머신러닝 대회 참가 기록
 * 종료된 대회이므로 정확하지 않음
 
 ### Walmart Recruiting - Store Sales Forecasting
@@ -20,8 +20,8 @@
 * 결과 : private score 0.48508(상위 약 34%)
 ### Bike Sharing Demand
 * 자전거 수요 예측 문제
-* 사용 모델 :
-* 결과 :
+* 사용 모델 : 랜덤포레스트
+* 결과 : private score 0.39531(상위 약 5%)
 ### Don't Get Kicked!
 * 결과
 ### San Francisco Crime Classification
