@@ -17,7 +17,7 @@
 ### Otto Group Product Classification Challenge
 * 제품들을 올바른 카테고리로 분류하는 문제
 * 사용 모델 : xgboost
-* 결과 :
+* 결과 : private score 0.48508(상위 약 34%)
 ### Bike Sharing Demand
 * 자전거 수요 예측 문제
 * 사용 모델 :
