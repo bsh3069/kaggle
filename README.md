@@ -30,6 +30,14 @@
 * 도시에서 발생한 범죄의 범주를 예측하는 문제
 * 사용 모델 : catboost
 * 결과 : private score 2.41054(상위 약 24%)
+### Airbnb New User Bookings
+* 에어비앤비 유저가 첫 여행을 어느나라로 예약하는지 분류 문제
+* 사용 모델 : catboost
+* 결과 : private score 0.88355(상위 약 15%)
+### Housing Prices Competition for Kaggle Learn Users
+* 집 값 예측하는 문제
+* 사용 모델 : catboost와 ridge regression 블렌딩 모델
+* 결과 : private score 12569.17873(상위 약 1%)
 ### Shelter Animal Outcomes
 * 결과
 ### Give Me Some Credit
