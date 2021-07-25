@@ -27,7 +27,9 @@
 * 사용 모델 : catboost
 * 결과 : private score 0.25725(상위 약 2%)
 ### San Francisco Crime Classification
-* 결과
+* 도시에서 발생한 범죄의 범주를 예측하는 문제
+* 사용 모델 : catboost
+* 결과 : private score 2.41054(상위 약 24%)
 ### Shelter Animal Outcomes
 * 결과
 ### Give Me Some Credit
